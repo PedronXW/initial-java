@@ -1,3 +1,5 @@
+package com.santander_dio.conta_terminal;
+
 import java.util.Locale;
 import java.util.Scanner;
 

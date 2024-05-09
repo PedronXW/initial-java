@@ -1,3 +1,5 @@
+package com.santander_dio.contador;
+
 import java.util.Scanner;
 
 public class Contador {
